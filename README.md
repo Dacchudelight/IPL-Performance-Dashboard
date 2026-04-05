@@ -1,6 +1,6 @@
 # IPL-Performance-Dashboard
 Interactive Power BI dashboard analyzing IPL player and team performance
-# IPL Performance Dashboard 📊
+# IPL Performance Dashboard 
 
 ## Overview
 
