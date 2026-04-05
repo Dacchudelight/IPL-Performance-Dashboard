@@ -34,8 +34,7 @@ This project presents an interactive Power BI dashboard analyzing IPL data to un
 
 ## Team Filter Interaction
 ![Team Filter](IPL_Dashboard_Team_Filter.png)
-#To view the file
-README.md
+
 
 ## How to Use
 
