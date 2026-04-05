@@ -26,15 +26,14 @@ This project presents an interactive Power BI dashboard analyzing IPL data to un
 * Team performance varies significantly across matches
 
 ## Screenshots
-### Dashboard Overview
-IPL_Dashboard_Overview.png
+## Dashboard Overview
+![Dashboard Overview](IPL_Dashboard_Overview.png)
 
-### Player Analysis
-IPL_Dashboard_Player_Analysis.png
+## Player Analysis
+![Player Analysis](IPL_Dashboard_Player_Analysis.png)
 
-### Team Filter Interaction
-IPL_Dashboard_Team_Filter.png
-
+## Team Filter Interaction
+![Team Filter](IPL_Dashboard_Team_Filter.png)
 #To view the file
 README.md
 
